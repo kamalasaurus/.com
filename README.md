@@ -1,4 +1,9 @@
 # .com
+
+Code for my personal blog [kamalasaurus.com] .  The restrictive license is to discourage duplication of whatever personal information lies therein.
+
+# LICENSE
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a
