@@ -1,6 +1,6 @@
 # .com
 
-Code for my personal site [kamalasaurus.com](kamalasaurus.com) .  The restrictive license is to discourage duplication of whatever personal information lies therein.
+Code for my personal site [kamalasaurus.com](kamalasaurus.com) .  The restrictive license is to discourage duplication of whatever personal information lies herein.
 
 # LICENSE
 
